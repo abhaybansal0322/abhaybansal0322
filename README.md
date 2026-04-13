@@ -8,8 +8,8 @@
 ## 🚀 About Me  
 - 🔹 Skilled in **C++, Python, JavaScript/TypeScript**  
 - 🔹 Experienced with **Next.js, Node.js, MongoDB, AWS, Docker, Jenkins**  
-- 🔹 Passionate about **AI/ML, Computer Vision, and Scalable Systems**  
-- 🔹 Strong problem solver – **400+ LeetCode problems solved (1600 rating)**, **CodeChef Global Rank 129**  
+- 🔹 Passionate about **AI/M and Scalable Systems**  
+- 🔹 Strong problem solver – **500+ LeetCode problems solved (2000 rating)**, **CodeChef 3 star (1900+)**  
 
 ---
 
