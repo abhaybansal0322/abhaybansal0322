@@ -133,9 +133,13 @@ A full-stack room booking and workstation management platform built for the iQub
 
 ## 📊 GitHub Stats
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaybansal0322&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaybansal0322&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhay's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
