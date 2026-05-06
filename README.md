@@ -1,6 +1,6 @@
 # Hi, I'm Abhay Bansal 👋
 
-## Software Engineer | Full-Stack Developer | Backend & Automation Enthusiast
+## Software Engineer | Backend, Full-Stack Developer & Automation Enthusiast | Strong DSA Problem Solver
 
 Final-year Computer Science student at **Thapar Institute of Engineering and Technology** with strong foundations in **Data Structures & Algorithms, Backend Development, System Design, and Full-Stack Engineering**.
 
