@@ -6,7 +6,7 @@ Final-year Computer Science student at **Thapar Institute of Engineering and Tec
 
 I enjoy building reliable, scalable, and user-focused applications using modern technologies like **Next.js, TypeScript, PostgreSQL, MongoDB, Redis, Docker, AWS EC2, and REST APIs**.
 
-- 🏆 **LeetCode Knight** — 2145 rating, Top 1.7%
+- 🏆 **LeetCode Guardian** — 2100+ rating, Top 1.3%
 - ⭐ **CodeChef 4-Star** — 1919 rating
 - 💻 Solved **500+ DSA problems**
 - 🚀 Built production-style full-stack systems with authentication, database design, caching, and deployment
