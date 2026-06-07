@@ -90,10 +90,10 @@
 
 <p align="center">
   <a href="https://github.com/abhaybansal0322/AE-Brand-User-Invitation">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhaybansal0322&repo=AE-Brand-User-Invitation&theme=github_dark&hide_border=true" alt="AE Brand User Invitation repository card" />
+    <img width="45%" src="https://github-readme-stats-seven-red-99.vercel.app/api/pin/?username=abhaybansal0322&repo=AE-Brand-User-Invitation&theme=github_dark&hide_border=true" alt="AE Brand User Invitation repository card" />
   </a>
   <a href="https://github.com/abhaybansal0322/Devsquad">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhaybansal0322&repo=Devsquad&theme=github_dark&hide_border=true" alt="DevSquad MCP repository card" />
+    <img width="45%" src="https://github-readme-stats-seven-red-99.vercel.app/api/pin/?username=abhaybansal0322&repo=Devsquad&theme=github_dark&hide_border=true" alt="DevSquad MCP repository card" />
   </a>
 </p>
 
