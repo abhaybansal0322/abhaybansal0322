@@ -1,0 +1,23 @@
+<svg width="460" height="210" viewBox="0 0 460 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DevSquad MCP repository card</title>
+  <desc id="desc">Repository card for DevSquad MCP, an npm-based MCP server.</desc>
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .title { fill: #f0f6fc; font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .stack { fill: #58a6ff; font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .body { fill: #c9d1d9; font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .pill { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+    .pillText { fill: #f0f6fc; font: 700 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  <rect class="bg" x="1" y="1" width="458" height="208" rx="12" />
+  <text class="title" x="24" y="40">DevSquad MCP</text>
+  <text class="stack" x="24" y="68">MCP Server - TypeScript - Node.js - npm</text>
+  <text class="body" x="24" y="102">
+    <tspan x="24" dy="0">NPM-based MCP server that converts vague coding</tspan>
+    <tspan x="24" dy="20">prompts into structured, role-based workflows for AI</tspan>
+    <tspan x="24" dy="20">coding agents with classification, review gates,</tspan>
+    <tspan x="24" dy="20">safety checkpoints, and diagnosis playbooks.</tspan>
+  </text>
+  <rect class="pill" x="24" y="166" width="92" height="28" rx="14" />
+  <text class="pillText" x="45" y="184">Repository</text>
+</svg>

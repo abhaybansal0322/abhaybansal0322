@@ -24,24 +24,9 @@
 
 ## Profile Snapshot
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abhaybansal0322&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay Bansal GitHub stats" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com?user=abhaybansal0322&theme=github-dark-blue&hide_border=true" alt="Abhay Bansal GitHub streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://leetcard.jacoblin.cool/abhaybansal_?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode profile card" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="assets/profile-snapshot.svg" alt="Public profile snapshot for Abhay Bansal" />
+</p>
 
 ---
 
@@ -90,10 +75,10 @@
 
 <p align="center">
   <a href="https://github.com/abhaybansal0322/AE-Brand-User-Invitation">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhaybansal0322&repo=AE-Brand-User-Invitation&theme=github_dark&hide_border=true" alt="AE Brand User Invitation repository card" />
+    <img width="48%" src="assets/ae-brand-user-invitation-card.svg" alt="AE Brand User Invitation repository card" />
   </a>
   <a href="https://github.com/abhaybansal0322/Devsquad">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhaybansal0322&repo=Devsquad&theme=github_dark&hide_border=true" alt="DevSquad MCP repository card" />
+    <img width="48%" src="assets/devsquad-card.svg" alt="DevSquad MCP repository card" />
   </a>
 </p>
 
