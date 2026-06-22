@@ -38,7 +38,7 @@
       <img width="100%" src="https://github-readme-stats-seven-red-99.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://leetcard.jacoblin.cool/abhaybansal?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode profile card" />
+      <img width="100%" src="https://leetcard.jacoblin.cool/abhaybansal_?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode profile card" />
     </td>
   </tr>
 </table>
