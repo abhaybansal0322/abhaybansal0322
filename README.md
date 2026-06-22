@@ -13,7 +13,7 @@
   &nbsp;|&nbsp;
   <a href="https://github.com/abhaybansal0322">GitHub</a>
   &nbsp;|&nbsp;
-  <a href="https://leetcode.com/u/abhaybansal/">LeetCode</a>
+  <a href="https://leetcode.com/u/abhaybansal_/">LeetCode</a>
   &nbsp;|&nbsp;
   <a href="https://www.codechef.com/users/bansal03">CodeChef</a>
   &nbsp;|&nbsp;
