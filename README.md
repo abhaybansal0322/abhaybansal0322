@@ -3,7 +3,7 @@
 <h3 align="center">Software Development Engineer | Backend Systems | AI Workflows | Microservices</h3>
 
 <p align="center">
-  Final-year CSE student at Thapar Institute of Engineering and Technology, building backend systems, AI workflow integrations, real-time services, and full-stack products with TypeScript, Go, Node.js, Next.js, PostgreSQL, Redis, Docker, and AWS.
+  Software Engineer with experience building scalable backend systems, AI-powered applications, and microservices using TypeScript, Go, Node.js, Fastify, PostgreSQL, Redis, and Docker. Passionate about solving complex engineering problems and developing high-performance software. Achieved a 2140+ LeetCode contest rating and 4-Star CodeChef rating, with 800+ DSA problems solved across multiple platforms. Seeking Software Development Engineer roles where I can build impactful products and continue growing as a backend engineer.
 </p>
 
 <p align="center">
