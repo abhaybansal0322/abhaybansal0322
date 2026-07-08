@@ -2,9 +2,9 @@
 
 <h3 align="center">Software Development Engineer | Backend Systems | AI Workflows | Microservices</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Systems;AI+Workflow+Integrations;Real-time+Services;Microservices" alt="Typing SVG" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Systems;AI+Workflow+Integrations;Real-time+Services;Microservices" alt="Typing SVG" /> -->
+<!-- </p> -->
 
 <p align="center">
   Software Engineer with experience building scalable backend systems, AI-powered applications, and microservices using TypeScript, Go, Node.js, Fastify, PostgreSQL, Redis, and Docker. Passionate about solving complex engineering problems and developing high-performance software. Achieved a 2140+ LeetCode contest rating and 4-Star CodeChef rating, with 800+ DSA problems solved across multiple platforms. Seeking Software Development Engineer roles where I can build impactful products and continue growing as a backend engineer.
