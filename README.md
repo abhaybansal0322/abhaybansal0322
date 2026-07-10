@@ -209,14 +209,6 @@ Data Structures and Algorithms | Operating Systems | DBMS | Computer Networks | 
 
 ---
 
-## Certifications
-
-- Algorithms and Data Structures Certification by Coding Ninjas.
-- AWS Academy Cloud Foundations.
-- AWS Academy Cloud Developing.
-
----
-
 <p align="center">
   <b>Code. Build. Debug. Improve. Repeat.</b>
 </p>
