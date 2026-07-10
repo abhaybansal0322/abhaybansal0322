@@ -32,18 +32,14 @@
 
 ## Profile Snapshot
 
+<p align="center">
+  <img width="100%" src="./metrics.svg" alt="Abhay Bansal GitHub metrics" />
+</p>
+
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats-seven-red-99.vercel.app/api?username=abhaybansal0322&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay Bansal GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=abhaybansal0322&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats-seven-red-99.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+      <img width="100%" src="./metrics-languages.svg" alt="Most used languages" />
     </td>
     <td width="50%">
       <img width="100%" src="https://leetcard.jacoblin.cool/abhaybansal_?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode profile card" />
