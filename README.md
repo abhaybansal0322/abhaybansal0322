@@ -122,18 +122,6 @@ Favorite Courses: Data Structures and Algorithms, Operating Systems, DBMS, Compu
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/abhaybansal0322/AE-Brand-User-Invitation">
-    <img width="45%" src="https://github-readme-stats-seven-red-99.vercel.app/api/pin/?username=abhaybansal0322&repo=AE-Brand-User-Invitation&theme=github_dark&hide_border=true" alt="AE Brand User Invitation repository card" />
-  </a>
-  <a href="https://github.com/abhaybansal0322/Devsquad">
-    <img width="45%" src="https://github-readme-stats-seven-red-99.vercel.app/api/pin/?username=abhaybansal0322&repo=Devsquad&theme=github_dark&hide_border=true" alt="DevSquad MCP repository card" />
-  </a>
-  <a href="https://github.com/abhaybansal0322/smart-expense-splitter">
-    <img width="45%" src="https://github-readme-stats-seven-red-99.vercel.app/api/pin/?username=abhaybansal0322&repo=smart-expense-splitter&theme=github_dark&hide_border=true" alt="Smart Expense Splitter repository card" />
-  </a>
-</p>
-
 ---
 
 ## Tech Stack
