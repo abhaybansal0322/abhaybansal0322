@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats-seven-red-99.vercel.app/api?username=abhaybansal0322&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay Bansal GitHub stats" />
+      <img width="100%" src="https://github-readme-stats-e6qi.vercel.app/api?username=abhaybansal0322&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay Bansal GitHub stats" />
     </td>
     <td width="50%">
       <img src="https://github-readme-streak-stats-2ktz.vercel.app?user=abhaybansal0322&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats-seven-red-99.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+      <img width="100%" src="https://github-readme-stats-e6qi.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
     </td>
     <td width="50%">
       <img width="100%" src="https://leetcard.jacoblin.cool/abhaybansal_?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode profile card" />
