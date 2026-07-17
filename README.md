@@ -38,7 +38,7 @@
       <img width="100%" src="https://github-readme-stats-seven-red-99.vercel.app/api?username=abhaybansal0322&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay Bansal GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=abhaybansal0322&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-2ktz.vercel.app?user=abhaybansal0322&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
