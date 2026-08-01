@@ -1,202 +1,65 @@
 # Abhay Bansal
 
-<h3 align="center">Software Development Engineer | Backend Systems | AI Workflows | Microservices</h3>
+**Backend engineer.** Go, TypeScript, PostgreSQL, Redis, Docker.
+Currently building AI workflow infrastructure at Adaptware Solutions.
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Systems;AI+Workflow+Integrations;Real-time+Services;Microservices" alt="Typing SVG" /> -->
-<!-- </p> -->
-
-<p align="center">
-  Software Engineer with experience building scalable backend systems, AI-powered applications, and microservices using TypeScript, Go, Node.js, Fastify, PostgreSQL, Redis, and Docker. Passionate about solving complex engineering problems and developing high-performance software. Achieved a 2140+ LeetCode contest rating and 4-Star CodeChef rating, with 800+ DSA problems solved across multiple platforms. Seeking Software Development Engineer roles where I can build impactful products and continue growing as a backend engineer.
-</p>
-
-<p align="center">
-  <a href="https://portfolio-rose-three-56c1rb6wal.vercel.app/">Portfolio</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/abhay-bansal-44474a263">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/abhaybansal0322">GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="https://leetcode.com/u/abhaybansal_/">LeetCode</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.codechef.com/users/bansal03">CodeChef</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:abhaybansalwork@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhaybansal0322&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+[Resume](RESUME_URL) · [LinkedIn](https://www.linkedin.com/in/abhay-bansal-44474a263) · [LeetCode](https://leetcode.com/u/abhaybansal_/) · [CodeChef](https://www.codechef.com/users/bansal03) · abhaybansalwork@gmail.com
 
 ---
 
-## Profile Snapshot
+### What I work on
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=abhaybansal0322&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay Bansal GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats-2ktz.vercel.app?user=abhaybansal0322&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhaybansal0322&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://leetcard.jacoblin.cool/abhaybansal_?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode profile card" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img width="100%" src="https://raw.githubusercontent.com/abhaybansal0322/abhaybansal0322/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-    </td>
-  </tr>
-</table>
+I build backend services and developer tooling. Most of my time goes to service
+boundaries, workflow execution, and making systems observable when they fail.
+
+At Adaptware I built the integration layer between our product backend and an AI
+service — Socket.IO transport with JWT auto-refresh, request correlation, and
+concurrency throttling for up to 50 parallel executions per instance, with
+LangGraph checkpoints in Redis for multi-turn conversational flows.
 
 ---
 
-## About
+### Selected work
 
-- Software Development Engineer focused on backend systems, AI workflow integrations, real-time communication, and developer tooling.
-- Competitive programming background: LeetCode contest rating 2140+, CodeChef 4-Star rating 1916+, and 800+ DSA problems solved.
-- Experience with TypeScript microservices, Fastify services, Socket.IO workflows, LangGraph conversational flows, Redis workers, PostgreSQL schemas, React apps, Go services, Docker, GitHub Actions, and AWS.
-- Interested in reliable backend design, scalable workflow execution, auditability, structured integrations, and practical developer workflows.
+**[AE-Brand-User-Invitation](https://github.com/abhaybansal0322/AE-Brand-User-Invitation)** — Go · REST · OpenAPI · Docker · CI
+Multi-persona user onboarding service. Persona-gated authorization, idempotent
+duplicate-email handling, and a one-year queryable audit trail. Storage sits
+behind a repository interface so the backing store swaps without touching handlers.
 
----
+**[smart-expense-splitter](https://github.com/abhaybansal0322/smart-expense-splitter)** — Next.js · TypeScript · PostgreSQL · Drizzle · Docker
+Group expense platform. Remainder-distribution split math so totals never drift
+by a paisa, and a greedy min-cash-flow algorithm that collapses a debt graph into
+the fewest settlement transactions. Thin API routes, Zod validation at the
+boundary, services own behavior, repositories own persistence.
 
-## Education
+**[devsquad-mcp](https://github.com/abhaybansal0322/Devsquad)** — TypeScript · MCP · npm
+MCP server that gates AI coding agents behind a workflow: classify prompt clarity,
+route to implementation / discovery-first / investigation-only, enforce rule-based
+review before expansion. Deliberately capability-free — no shell, no file writes,
+no network, no `.env` reads.
 
-**Thapar Institute of Engineering and Technology, Patiala**<br />
-**B.E. in Computer Science and Engineering | CGPA: 8.2/10 | 2022 - 2026**
-
-Favorite Courses: Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks, Object-Oriented Programming
-
----
-
-## Experience
-
-**Software Engineering Intern**<br />
-**Adaptware Solutions Pvt Ltd. | Chandigarh, India | Mar 2026 - Present**
-
-- Contributed to a monorepo-based microservices platform spanning 2 independently deployable Fastify services, separate PostgreSQL schemas, Redis-backed workers, React applications, and shared npm packages for recruiting and AI workflow systems.
-- Engineered a centralized TypeScript integration layer between the product backend and Orion AI service, enabling 20+ AI workflows across 12+ modules including resume processing, job creation, candidate screening, assessments, and interviews.
-- Built Socket.IO-based workflow communication with JWT auto-refresh, request correlation, connection reuse, timeout handling, and concurrency throttling, supporting up to 50 parallel AI executions per backend instance.
-- Implemented multi-turn workflow execution using LangGraph checkpoints, Redis, thread identifiers, and persisted execution IDs across conversational flows such as job intake, resume building, and application screening.
-- Integrated recruiter-assist workflows for sentiment analysis every 30 seconds and live interview analysis every 2 minutes, persisting insights to PostgreSQL and streaming results through Socket.IO.
+**[github-remote-migrator](https://github.com/abhaybansal0322/github-remote-migrator)** — TypeScript · CLI
+Rewrites local Git remotes after a GitHub owner rename. Dry-run by default,
+timestamped backups, verified rollback, HTTPS/SSH/Enterprise URL forms.
 
 ---
 
-## Featured Projects
+### Open source
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AE Brand User Invitation</h3>
-      <p><b>Go, REST APIs, Docker, OpenAPI, GitHub Actions</b></p>
-      <p>Production-ready Go backend service for brand user invitation and self-service onboarding, supporting 6+ user-management operations with authorization, validation, duplicate-user handling, multi-persona support, audit logging, Docker, OpenAPI docs, CI pipelines, and unit tests.</p>
-      <p>
-        <a href="https://github.com/abhaybansal0322/AE-Brand-User-Invitation">Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>DevSquad MCP</h3>
-      <p><b>MCP Server, TypeScript, Node.js, npm, AI Agents</b></p>
-      <p>NPM-based MCP server that converts vague coding prompts into structured workflows for Claude Code, Codex, Cursor, and Antigravity with prompt classification, 3 execution paths, and rule-based review gates.</p>
-      <p>
-        <a href="https://github.com/abhaybansal0322/Devsquad">Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>Smart Expense Splitter</h3>
-      <p><b>Next.js, TypeScript, PostgreSQL, NextAuth, Docker</b></p>
-      <p>Full-stack financial workflow platform supporting Equal, Exact, Percentage, and Itemized splits with penny-accurate settlement logic validated across 1000+ generated expense cases and a greedy transaction-minimization algorithm.</p>
-      <p>
-        <a href="https://github.com/abhaybansal0322/smart-expense-splitter">Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
+- [hoppscotch#6387](https://github.com/hoppscotch/hoppscotch/pull/6387) — merged (js-sandbox development docs), shipped in release 2026.6.0
+- [files-community/Files#18539](https://github.com/files-community/Files/pull/18539) — merged
 
 ---
 
-## Tech Stack
+### Problem solving
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Go_HTTP_Services-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go HTTP Services" />
-      <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
-      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-      <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=github&logoColor=white" alt="CI/CD" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-</table>
+LeetCode **2140** contest rating (top ~1%) · Global Rank 136 and 176 in Weekly Contests
+CodeChef **4★** (1916) · Global Rank 25 in Starters 216 · 800+ problems solved
+
+<a href="https://leetcode.com/u/abhaybansal_/">
+  <img src="https://leetcard.jacoblin.cool/abhaybansal_?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+</a>
 
 ---
 
-## Achievements
-
-- LeetCode contest rating 2140+ and CodeChef 4-Star rating 1916+.
-- Solved 800+ DSA problems across LeetCode, CodeChef, and other coding platforms.
-- Secured Global Rank 136 and 176 in LeetCode Weekly Contests, ranking in the top 1% among 30,000+ participants.
-- Global Rank 25 in CodeChef Starters 216.
-- INR 3 Lakh Merit Scholarship awarded by Thapar University for academic excellence.
-
----
-
-## Core CS
-
-Data Structures and Algorithms | Operating Systems | DBMS | Computer Networks | Object-Oriented Programming
-
----
-
-<p align="center">
-  <b>Code. Build. Debug. Improve. Repeat.</b>
-</p>
+B.E. Computer Science and Engineering, Thapar Institute of Engineering and Technology — 2026 · CGPA 8.2/10
