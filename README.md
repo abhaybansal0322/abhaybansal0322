@@ -70,7 +70,7 @@
 ## Education
 
 **Thapar Institute of Engineering and Technology, Patiala**<br />
-**B.E. in Computer Science and Engineering | CGPA: 8.2/10 | 2022 - 2026**
+**B.E. in Computer Science and Engineering | CGPA: 8.4/10 | 2022 - 2026**
 
 Favorite Courses: Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks, Object-Oriented Programming
 
